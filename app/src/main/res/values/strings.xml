@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="todo">TODO</string>
+    <string name="log_in">LOG IN</string>
+    <string name="log_in_str">Log in</string>
+    <string name="register">REGISTER</string>
+    <string name="register_str">Register</string>
+    <string name="str_log">Log in</string>
+    <string name="password_str">********</string>
+    <string name="email_str">jane@example.com</string>
+    <string name="next">NEXT</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="privacy_text">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
+    <string name="nickname_str">nickname</string>
+</resources>
